@@ -28,7 +28,7 @@ $ git push
     在 GitHub 网站上提交 Pull Request。
     定期使用项目仓库内容更新自己仓库内容。
 
-$ git remote add upstream https://github.com/Wechat-Group/WxJava
+$ git remote add upstream https://github.com/Xingtxx/gitbook.git
 $ git fetch upstream
 $ git checkout develop
 $ git rebase upstream/develop
